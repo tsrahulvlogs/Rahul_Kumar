@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Cyber Security, Web Developer & Data Analyst from India</h3>
+<h3 align="center">"Multifaceted IT Professional | Cybersecurity Expert | Web Developer | Data Analyst | Python, SQL, Linux, CCNA, HTML5, CSS3, JavaScript, React.js, MongoDB, Power BI, MS Excel"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrahulvlogs&label=Profile%20views&color=0e75b6&style=flat" alt="tsrahulvlogs" /> </p>
 
